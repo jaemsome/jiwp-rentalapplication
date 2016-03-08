@@ -1,0 +1,45 @@
+.clear {clear: both;}
+
+.full-width {width: 100%;}
+.half-width {width: 50%;}
+.quarter-width {width: 25%;}
+
+.left {float: left;}
+.right {float: right;}
+.align-center {text-align: center;}
+.align-left {text-align: left;}
+
+.vertical-resize {resize: vertical;}
+
+.success {background-color: #CCFF99; border: 1px solid #008000; padding: 5px;}
+.error {background-color: #FFEBE8; border: 1px solid #C00; padding: 5px;}
+
+.red {color: #C00;}
+
+.bold {font-weight: bold;}
+.bolder {font-weight: bolder; font-size: 18px;}
+.no-style {list-style: none;}
+
+.bottom-border {border-bottom: 1px solid;}
+
+.bg-grey {background-color: #D4D4D4;}
+
+table.kmi-rental-application
+{
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+.kmi-rental-application th
+{
+    border: 1px solid;
+    padding: 3px;
+    vertical-align: top;
+    margin: 0;
+}
+.kmi-rental-application td
+{
+    border: 1px solid;
+    padding: 7px 5px;
+    vertical-align: top;
+    margin: 0;
+}
